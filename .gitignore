@@ -1,0 +1,6 @@
+app.log
+api_key.txt
+secret.key 
+venv
+documents
+__pycache__
