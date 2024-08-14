@@ -25,14 +25,15 @@ Antes de executar a API, você precisa gerar uma chave de criptografia. Navegue 
 
 ```bash
 python generate_key.py
+```
 
 ### Gerar a chave para API
 
 Também será necessário gerar uma chave de API para autenticação. Navegue até a raiz do projeto e Execute o seguinte comando para gerar e salvar a chave em `api_key.txt`:
 
-
 ```bash
 python generate_api_key.py
+```
 
 ### Executar a API
 
@@ -40,6 +41,7 @@ Navegue até a raiz do projeto e execute o seguinte comando:
 
 ```bash
 python app.py
+```
 
 ### Executar Teste
 
@@ -47,6 +49,7 @@ Navegue até a raiz do projeto e execute o seguinte comando:
 
 ```bash
 python unittest test.py
+```
 
 ## Endpoints da API
 
