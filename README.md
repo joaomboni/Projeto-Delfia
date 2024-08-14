@@ -143,5 +143,3 @@ python unittest test.py
 
 6. **Backup e Recuperação:**
    - **Sistema de Backup:** Implementar soluções de backup para garantir que arquivos criptografados e a chave de criptografia sejam armazenados de forma segura e possam ser recuperados em caso de falhas.
-
-Esse relatório fornece uma visão geral das escolhas técnicas feitas durante o desenvolvimento da API, os desafios encontrados e possíveis caminhos para futuras melhorias e expansões.
